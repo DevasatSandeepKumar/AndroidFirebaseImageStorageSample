@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "10354073101",
+    "firebase_url": "https://fir-imagesavedemo.firebaseio.com",
+    "project_id": "fir-imagesavedemo",
+    "storage_bucket": "fir-imagesavedemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10354073101:android:ee4551e770339352",
+        "android_client_info": {
+          "package_name": "com.smartron.sid.firebaseimagestoredemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10354073101-k0hkesnket8u8v1qt5ub1kr9029ftqbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzo8IKz-7AwJ7U4EyRFlTccT4Fh0yAJi4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
